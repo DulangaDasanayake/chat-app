@@ -1,4 +1,4 @@
-# Step 5: Run the App
+# Run the App
 Start the server to test it locally:
 
 ```bash
